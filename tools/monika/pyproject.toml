@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "monika-phone-cli"
+version = "0.1.0"
+description = "Command-line client for Monika's Android task API"
+requires-python = ">=3.10"
+license = {file = "LICENSE"}
+dependencies = []
+
+[project.scripts]
+monika = "monika_cli:main"
+
+[tool.setuptools]
+py-modules = ["monika_cli", "monika_notifications"]
+packages = ["monika_desk"]
+package-dir = {"" = "scripts"}
+
+[tool.setuptools.package-data]
+monika_desk = ["*.html", "*.css", "*.js", "monika-logo.png"]
