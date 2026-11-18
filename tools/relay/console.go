@@ -17,7 +17,7 @@ type consoleSession struct {
 }
 
 const (
-	consoleCookie      = "mika_console"
+	consoleCookie      = "monika_console"
 	consoleIdle        = 8 * time.Hour
 	consoleMax         = 24 * time.Hour
 	consoleMaxSessions = 16
