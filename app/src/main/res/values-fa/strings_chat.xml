@@ -6,7 +6,7 @@
     <string name="chat_greeting_evening">عصر بخیر</string>
     <string name="chat_greeting_night">هنوز بیدارید؟</string>
     <string name="chat_empty_prompt">میکا چه کاری انجام دهد؟</string>
-    <string name="chat_example_follow">ایکس را باز کن، وانگ زان (@wangzan101) را جست‌وجو کن و حساب او را دنبال کن.</string>
+    <string name="chat_example_follow">ایکس را باز کن، وانگ زان (@bigopeforce-bit) را جست‌وجو کن و حساب او را دنبال کن.</string>
     <string name="chat_example_group_summary">واتساپ را باز کن و پیام‌های خوانده‌نشدهٔ امروز را خلاصه کن؛ مواردی را که به پاسخ من نیاز دارند مشخص کن.</string>
     <string name="chat_example_alarms">برای فردا صبح در ساعت‌های ۹:۴۰، ۹:۵۰ و ۱۰:۰۰ زنگ هشدار تنظیم کن.</string>
     <string name="chat_example_replace_title">پیش‌نویس فعلی جایگزین شود؟</string>
@@ -205,7 +205,7 @@
     <string name="chat_branch_attachments_readd">پیوست‌های موردنظر را دوباره اضافه کنید</string>
     <string name="chat_select_hint">برای انتخاب، متن را لمس کنید و نگه دارید</string>
     <string name="chat_quote_remove">حذف نقل‌قول</string>
-    <string name="chat_quoting_mika">نقل‌قول از میکا: %1$s</string>
+    <string name="chat_quoting_monika">نقل‌قول از میکا: %1$s</string>
     <string name="chat_quoting_you">نقل‌قول از شما: %1$s</string>
     <string name="chat_edit_message">ویرایش پیام</string>
     <string name="chat_withdraw_message">پس گرفتن پیام</string>
@@ -233,7 +233,7 @@
     <string name="chat_placeholder_queue">کار بعدی را بنویسید…</string>
     <string name="voice_placeholder_queue">کار بعدی را بگویید…</string>
     <string name="steer_received_paused">متوجه شدم؛ هنگام ادامهٔ کار اعمال می‌شود</string>
-    <string name="chat_example_github_star">نشانی https://github.com/wangzan101/mika را باز کن و به پروژه ستاره بده.</string>
+    <string name="chat_example_github_star">نشانی https://github.com/bigopeforce-bit/monika را باز کن و به پروژه ستاره بده.</string>
     <string name="drawer_search_clear">پاک کردن جست‌وجو</string>
     <string name="drawer_search_empty">هیچ گفتگویی با «%1$s» مطابقت ندارد</string>
     <string name="drawer_search_empty_hint">در عنوان‌ها و متن گفتگوها جست‌وجو می‌کند</string>

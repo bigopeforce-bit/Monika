@@ -75,7 +75,7 @@
     <string name="fail_revoked">جفت‌سازی منقضی شد</string>
     <string name="fail_revoked_body">ممکن است سیستم پس از مدت طولانی بدون استفاده آن را لغو کرده باشد یا اتصال حذف شده باشد. دوباره جفت‌سازی کنید. برای جلوگیری از انقضای دوباره، «Disable adb authorization timeout» را در گزینه‌های توسعه‌دهنده روشن کنید.</string>
     <string name="fail_key_unreadable">خواندن کلید جفت‌سازی ممکن نیست</string>
-    <string name="fail_key_unreadable_body">میکا دیگر نمی‌تواند کلید جفت‌سازی را بخواند. یک بار دوباره جفت‌سازی کنید؛ میکا کلید جدید می‌سازد و می‌توانید مورد قدیمی «mika@…» را از دستگاه‌های جفت‌شده حذف کنید.</string>
+    <string name="fail_key_unreadable_body">میکا دیگر نمی‌تواند کلید جفت‌سازی را بخواند. یک بار دوباره جفت‌سازی کنید؛ میکا کلید جدید می‌سازد و می‌توانید مورد قدیمی «monika@…» را از دستگاه‌های جفت‌شده حذف کنید.</string>
     <string name="fail_helper">متصل شد، اما آماده‌سازی کامل نشد</string>
     <string name="fail_helper_body">معمولاً تلاش دوباره مشکل را رفع می‌کند.</string>
     <string name="fail_unknown">مشکلی پیش آمد</string>
